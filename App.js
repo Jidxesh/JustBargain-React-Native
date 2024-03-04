@@ -61,8 +61,6 @@ const styles = StyleSheet.create({
     paddingHorizontal: 10,
     fontSize: 18,
     color: '#6200EE',
-    marginBottom: 5,
-    width: '100%', 
   },
   charCount: {
     fontSize: 14,
